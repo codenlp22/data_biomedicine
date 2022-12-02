@@ -1,0 +1,1000 @@
+As opposed to normal cells , hypermethylation of CpG islands is a frequently observed phenomenon in every cancer type .
+PCR was performed with an annealing temperature of 62 degrees C and 35 cycles .
+Bisulfite treatment of DNA , leading to conversion of unmethylated cytosine to uracil residues and no change of methylated cytosine residues , was performed as described as follows .
+The control construct served as an internal reference for transfection efficiency .
+Each experiment was carried out at least three times .
+This technique is especially useful for detection of unknown methylation patterns .
+Many genetic lesions are known to influence gene expression of tumor suppressor genes .
+Whereas mutations and deletions or insertions have permanent effects , reversible mechanisms are gene methylation , or expression and activation of transcription factors , respectively .
+One possible cause for the aberrant methylation in tumorigenesis is an increased level of DNMTs during the pathogenetic process .
+These data suggest a distinct regulatory mechanism for these two IRFs .
+Herein we describe downstream signaling pathways targeted by Foxp3 that may negatively impact retroviral pathogenesis .
+As a component of this system , a protein known as Foxp3 has been shown to be absolutely required for the development and function of Tregs .
+Although it is clear that Foxp3 regulates T cell proliferation and cytokine production , very little is known concerning the molecular mechanisms of Foxp3 function .
+That study also demonstrated that Foxp3 could repress activation of a synthetic reporter vector containing an SV40 promoter and three tandem copies of a forkhead binding site .
+Alternative interpretations may include the possibility that the localization of DeltaFKH differ between epithelial cells and T cells .
+DeltaFKH did not have a discernable affect on Tax expression .
+The data from this analysis is summarized in Table 1 .
+To our knowledge , this is the first evidence implicating CREB as a molecular target of Foxp3 .
+This motif may also include the zinc finger domain .
+This may be the result of the physical interaction we detected between Foxp3 and p300 .
+In addition , we identify the CREB pathway as a molecular target of Foxp3 .
+Blood samples were obtained after informed consent as part of a clinical protocol reviewed and approved by the NIH institutional review panel .
+The immunoprecipitates were washed four times with RIPA buffer , resuspended in SDS sample buffer , and heated at 95 degrees C for 5 min .
+Proteins were then treated as described for Western blot analysis .
+In transgenic mice , LMP1 promotes increased lymphoma development by 12 mo of age .
+The lymphomas require Akt , NFkappaB , and Stat3 signaling for enhanced growth and survival .
+The activation of the Stat3 , Akt , and NFkappaB signaling pathways likely underlies the ability of LMP1 to promote malignant transformation .
+In vitro infection of B lymphocytes with EBV induces permanent growth transformation , and this ability to affect cell growth regulation likely contributes to the development of cancer .
+In vitro , primary B cells can be maintained by CD40 ligation in combination with IL4 treatment .
+In this study , the LMP1 transgenic lymphocytes and lymphomas were further characterized and their growth properties in vitro were determined .
+To obtain pure populations of malignant lymphocytes and to enable more detailed biochemical analyses , examples of primary lymphomas were inoculated and passaged in SCID mice .
+LMP1 transgenic lymphocytes had increased viability in vitro and viability was increased by the addition of IL4 .
+The lymphomas were also distinguished by constitutive activation of Stat3 and deregulation of the Rb cell cycle pathway .
+LMP1 expression in IgLMP1 mice was directed to B cells under the control of the Ig heavy chain promoter and enhancer .
+LMP1 expression was heterogeneous with strong LMP1 staining interspersed amongst a background of cells staining weakly for LMP1 .
+Upon development to lymphoma , LMP1 expression was more abundantly detected with multiple foci of intense LMP1 staining .
+This demonstrates that the increased LMP1 detected by immunoblotting upon malignant progression reflects an increase in LMP1 expression and an accumulation of cells expressing high levels of LMP1 .
+This correlation between high LMP1 expression and the development of lymphoma suggests that progression to lymphoma results from increased levels of LMP1 .
+Interestingly , very low levels of expression of both light chains were detected by flow cytometry .
+The low levels of expression may reflect a limitation of the total number of light chains that can be expressed on the surface of a B cell .
+In contrast , LMP1 splenocytes had increased metabolism even in the absence of IL4 , which was further enhanced upon addition of IL4 .
+The ages of the transgenic mice with or without lymphoma ranged between 6 and 20 mo old .
+There was no correlation between age and MTS activity .
+This could reflect a difference for IL4 requirement in the metabolic activity versus the viability of LMP1 transgenic lymphoma cells .
+Expression levels were quantified with a phosphorimager and normalized to the ribosomal housekeeping gene L32 .
+However , when comparing the same lymphomas , there was no correlation between the levels of IL10 induction and the levels of Stat3 activation .
+This suggests that the activation of Stat3 is not solely induced by IL10 or that Stat3 activation may be constitutive .
+This indicates that the induction of IL10 is a general property associated with enhanced survival and may only be indirectly affected by LMP1 .
+This means that although the lymphoma cells have constitutive Stat3 activation , it may be further enhanced by IL10 induction .
+Nuclear translocation of pStat3 is a consequence of activation , and nuclear pStat3 was not detected by immunohistochemistry staining of spleen sections from control mice .
+This finding indicates that GSK3 is not a target of activated Akt in the LMP1 transgenic lymphocytes and lymphoma cells .
+This further suggests that additional pathways are involved in the regulation of GSK3 .
+Hence , degradation of Fox O1 was assessed by detection of total Fox O1 levels .
+These data indicate that the Rb pathway is deregulated in LMP1 transgenic lymphocytes and that lymphoma cells are distinguished by loss of Fox O1 and decreased p27 .
+Treatment with triciribine effectively blocked phosphorylation of Akt , and phosphorylated Akt was no longer detected past 5 muM .
+Phosphorylated Stat3 and IkappaBalpha were still present at 25 muM .
+These findings suggest that triciribine specifically targets Akt and that Akt activation is required for the enhanced viability of the transgenic lymphocytes and lymphoma cells .
+This is well within the reported IC50 of 10 muM .
+This finding suggests that inhibition of NFkappaB can induce cell death in LMP1 transgenic lymphocytes and lymphoma cells without significant effects on activation of Akt or Stat3 .
+Cucurbitacin I inhibits activation of Stat3 by suppressing the activation of its kinase JAK2 .
+This study defines the oncogenic properties of LMP1 in promoting B cell lymphomagenesis .
+These same pathways can also become sporadically activated in aged mice and also result in lymphoma development .
+Thus , the contribution of EBV and LMP1 to tumor development is apparently the continuous activation of pathways that can also be sporadically activated and contribute to tumor development .
+The requirement for Akt activation was confirmed by the striking inhibition of lymphoma viability by triciribine , an Akt inhibitor .
+These findings suggest that other Akt targets contribute to malignant progression .
+One key target is likely the inhibition of the Fox01 transcription factors .
+The constitutive signaling by LMP1 likely blocks GC formation through downregulation of bcl6 .
+Importantly , Akt , NFkappaB , and Stat3 pathways were critically required for the growth and survival of malignant lymphocytes as well as healthy LMP1 transgenic lymphocytes .
+Lymphomas were passaged by intraperitoneal injection of 1 x 108 splenocytes into SCID mice and sacrificed upon development of an extended abdomen .
+All protocols were approved by the Institutional Animal Care and Use Committee .
+Samples were denatured at 90 degrees C and hybridized at 56 degrees C overnight .
+Crude lysates were centrifuged at 13,000 rpm for 10 min at 4 degrees C and the supernatants were collected for further analysis .
+Shown are the results from WT lymphoma 1 and LMP1 transgenic lymphoma 4 .
+This analysis was repeated on three other WT and two other LMP1 transgenic mice with similar results .
+Shown are the results from WT lymphoma 1 and LMP1 transgenic lymphoma 2 .
+The L32 and GAPDH housekeeping genes were used as a loading control .
+Shown are the results from LMP1 transgenic lymphoma 3 .
+Mouse lymphoma cell lines 967 and K46mu were used as controls .
+Expression levels were quantified with a phosphorimager and values were normalized to the ribosomal housekeeping gene L32 .
+Arrows indicate the positions of the alpha and beta isoforms of Stat3 .
+Arrows indicate the positions of alpha and beta isoforms of GSK3 .
+The white line indicates that intervening lanes have been spliced out .
+This analysis was repeated with LMP1 transgenic lymphoma 4 yielding similar results .
+Arrows indicate the positions of alpha and beta isoforms of Stat3 .
+PCR analysis of total spleen genomic DNA for the mouse kappa locus .
+Specific PCR products for the four rearrangements corresponding to the calculated sizes are indicated with arrows .
+If a tumor was present in the background of normal spleen cells , a single band appears brighter than all the other specific bands .
+In addition , we demonstrate a critical role for the transcription factor Runx3 in CTL differentiation .
+We therefore tested whether Runx3 influenced cytolytic T cell differentiation .
+By limiting the duration of TCR stimulation , this strategy minimizes cytolysis secondary to new gene expression during the period of the assay .
+Therefore , the two major effector functions of CTL , cytokine production and cytolytic activity , are not intrinsically coregulated .
+Both proteins associated with gene regulatory regions in differentiated CTLs .
+This result suggests strongly that perforin expression requires Runx3 and Eomes .
+Runx3 binds to promoters and putative regulatory regions of the latter three genes , suggesting a direct effect on gene expression .
+Additional experiments are needed to determine whether Eomes and Runx1 are also direct target genes of Runx3 .
+S2 are from Runx3 KO SP cells , whereas those shown in Figs .
+For transduction experiments , viral supernatants were generated by calcium phosphate transfection of Phoenix cells and concentration by overnight centrifugation at 6,000 g .
+The plates were centrifuged at 700 g for 1 h at RT before returning to 37 degrees C for an additional 5 h .
+Fixation was stopped with 120 mM glycine on ice for 5 min .
+Melt curves and agarose gels were analyzed to ensure amplification of specific target sequences .
+The data are presented as the number of immunoprecipitated target sequences relative to input chromatin , assuming two copies of target sequence per cell equivalent used for the ChIP .
+S2 shows effector protein expression by Runx3 WT and KO cells at day 4 of in vitro culture .
+Primer sequences used for ChIP experiments are shown in Table S1 .
+RNA from day 7 Th1 cells was used as a control .
+Cells were restimulated with PMA and ionomycin for 4 h .
+Total cellular RNA was analyzed on day 6 of culture .
+Results are representative of at least two independent experiments .
+Tcells were recovered from the inguinal lymph nodes 3 days after priming and restimulated invitro with OVA peptide for 48 hr .
+More details of specific culture conditions are provided in Figures S6 and S7 .
+The inguinal lymph nodes were removed 48 hr later .
+Half of the supernatant was removed before the addition of BrefeldinA for use in an ELISA assay .
+Although Fas upregulation is central to the preservation of immunologic tolerance , little is known about the molecular machinery underlying this process .
+The alpha2beta1 integrin , a collagen receptor on platelets and megakaryocytes , is required for normal platelet function .
+Although CTCF has been characterized in some detail , there is very little information about the regulation of CTCF activity .
+Therefore we investigated CTCF expression and phosphorylation during induced differentiation of human myeloid leukemia cells .
+Activation of human immunodeficiency virus type 1 expression by Gardnerella vaginalis .
+Stimulation was significantly higher when lysates were heated at 100 degrees C for 5 min but was reduced by treatment with lysozyme or protease .
+This may explain , at least in part , the increased rate of HIV transmission in women with BV .
+Gold compounds have been effectively used for many decades in the treatment of rheumatoid arthritis .
+These observations indicate that the monovalent gold compound AuTG is a potentially useful drug for the treatment of patients infected with HIV .
+NAC also inhibited DC responses induced by CD40 engagement .
+Altogether , our results suggest that NAC might impair the generation of primary immune responses in humans through its inhibitory action on DC .
+Activation of leukocytes by proinflammatory stimuli selectively initiates intracellular signal transduction via sequential phosphorylation of kinases .
+Of p38 MAPk isoforms studied , only p38 alpha and p38 delta were detected in neutrophils .
+However , the mechanism by which IFNs mediate this inhibition has not been defined .
+Furthermore , inhibition can be blocked by actinomycin D , indicating a requirement for de novo transcription .
+These specific bindings were time and LPS dose dependent .
+Phosphorylation of TRAF2 inhibits binding to the CD40 cytoplasmic domain .
+TRAF2 is a signal transducing adaptor molecule which binds to the CD40 cytoplasmic domain .
+We have found that it is phosphorylated , predominantly on serine residues , when transiently overexpressed in 293 cells .
+We utilized CoCl2 as a mimetic molecule for hypoxia to study cellular signaling pathways .
+These results suggest that a decline in proteasome activity results in a failure to fully degrade IkappaBalpha in the elderly .
+In CAT reporter constructions no appreciable level of CAT activity was supported by the beta globin promoter , and only low level activity by the delta promoter .
+In contrast , deletion of the upstream portion of the delta promoter led to a 10 fold decrease in expression .
+Reduction of tumour necrosis factor alpha expression and signalling in peripheral blood mononuclear cells from patients with thalassaemia or sickle cell anaemia upon treatment with desferrioxamine .
+Expression of IkappaBalpha in the nucleus of human peripheral blood T lymphocytes .
+No evidence for inflammatory cytokine production was obtained under these conditions .
+Corticosteroids are most effective in preventing the late phase of allergic reaction .
+The action of glucocorticosteroids is mediated through glucocorticoid receptors present in the cellular cytoplasm .
+When activated , glucocorticoid receptors form a dimer and bind to DNA after migration into the nucleus .
+Interaction to DNA induces changes in the transcription rate , leading to either gene induction or gene repression .
+Through these actions glucocorticosteroids are susceptible to modify functions of cells involved in the allergic inflammatory response .
+Previous characterization of the GPIX promoter identified a functional Ets site that , when disrupted , reduced promoter activity .
+Furthermore , it demonstrates that aging does not influence the sensitivity of this phosphatase .
+Treatment with DMP prior to treatment with PAO and TNF abolishes the inhibition induced by PAO , in T cells from both young and old donors , alike .
+In addition , high level of expression of LITAF mRNA was observed predominantly in the placenta , peripheral blood leukocytes , lymph nodes , and the spleen .
+NK cell cytotoxicity is a fast and efficient mechanism of target cell lysis .
+Human cytomegalovirus binding to human monocytes induces immunoregulatory gene expression .
+We then investigated if HCMV binding also resulted in the translation and secretion of cytokines .
+Signal transduction pathways activated in endothelial cells following infection with Chlamydia pneumoniae .
+Recently , its presence has been demonstrated in atherosclerotic lesions .
+Fludarabine is a nucleoside analog used in the treatment of hematologic malignancies that can induce severe and prolonged immunosuppression .
+This loss of STAT1 was also seen in cells from patients treated with fludarabine in vivo .
+Brief exposure to fludarabine led to a sustained loss of STAT1 , analogous to the prolonged period of immunosuppression induced by exposure to the drug in vivo .
+Thus , STAT1 may be a useful target in the development of new immunosuppressive and antineoplastic agents .
+In contrast , aspirin was found to lower the risk of myocardial infarction in men .
+All agents tested induced expression of Hsp60 6 hr after application .
+The effects of GDSP were also measured on superoxide formation by activated human neutrophils .
+The effects of GDSP were compared with those of another elastase inhibitor , elastatinal .
+GDSP significantly inhibited edema formation , neutrophil infiltration , acinar cell damage , and plasma lipase and amylase increases caused by cerulein .
+Elastatinal had some of the same effects as GDSP but was less potent and effective .
+These results demonstrate a beneficial effect of GDSP , a novel specific elastase inhibitor , on the development of rat cerulein pancreatitis .
+The specificity of HePTP correlated with its physical association through its noncatalytic N terminus with Erk and another MAP kinase , p38 , but not Jnk or other proteins .
+A common feature of all stages of atherosclerosis is inflammation of the vessel wall .
+This ANG II effect was blocked by the angiotensin AT1 receptor antagonist losartan .
+Together , the data demonstrate the ability of the vasoactive peptide ANG II to activate inflammatory pathways in human monocytes .
+These data reveal the presence of distinct complexes involving GrpL and Grb2 in T cells .
+We have therefore examined the cellular metabolism , disposition and conjugation of SMX and its metabolites in vitro .
+Our results suggest that the balance between oxidation of SMX to its toxic metabolites and their reduction is an important protective cellular mechanism .
+If an imbalance exists , haptenation of the toxic metabolites to bodily proteins including the surface of viable cells can occur , and may result in drug hypersensitivity .
+Precise regulation of MHC class II expression plays a crucial role in the control of the immune response .
+The transactivator CIITA behaves as a master controller of constitutive and inducible MHC class II gene activation , but its exact mechanism of action is not known .
+It is known that the stability of this binding results from cooperative interactions between these proteins .
+This ability of CIITA to facilitate promoter occupation is undissociable from its transactivation potential .
+These lipid mediators increase activity of transcription factors and expression of cytokine genes indicating a function for cytosolic phospholipase A2 in signal transduction and inflammation .
+In this study , the subcellular mechanisms were analyzed by which trifluoromethylketones interfere with gene expression .
+Molecular regulation of cytokine gene expression during the immune response .
+Cytokine expression by immune system cells plays an important role in the regulation of the immune response .
+Two types of effector cells characterized by their distinct expression of cytokine profiles have been described .
+In this review we evaluate the possible in vivo role of different transcription factors and transcriptional mechanisms in T cell differentiation and the immune response .
+Resistance to tumor necrosis factor induced apoptosis in vitro correlates with high metastatic capacity of cells in vivo .
+TNF is one of the cytokines secreted by the cells of the immune system .
+Our data demonstrate that those cell lines lacking capability to form metastatic tumors in vivo are susceptible to TNF induced apoptosis in vitro .
+However , cell lines with high metastatic potential are resistant to TNF in vitro .
+Furthermore , the same cell lines were resistant to cytolytic action of other cytotoxic proteins secreted by LAK cells .
+This finding may provide a tool to improve current protocols of immunotherapy and insights to how tumor cells are or are not killed by LAK cells .
+Transcriptional targeting of retroviral vectors to the erythroblastic progeny of transduced hematopoietic stem cells .
+The replaced enhancer is propagated to the 5 ' LTR upon integration into the target cell genome .
+Packaging of viral particles , integration into the target genome , and stability of the integrated provirus are not affected by the LTR modification .
+Enhancer replacement is therefore an effective strategy to target expression of a retroviral transgene to a specific progeny of transduced hematopoietic stem cells .
+We developed unicellular culture systems for unilineage differentiation of purified hematopoietic progenitor cells followed by daughter cell analysis at cellular and molecular level .
+While virus derived from the clone containing the M47 mutation retained the ability to immortalize T lymphocytes , the M22 mutant lost the ability to immortalize infected cells .
+Moreover , we further investigated the physiologic relevance of these observations .
+Of even more interest , IkappaBalpha overexpression inhibited the production of matrix metalloproteinases 1 and 3 while not affecting their tissue inhibitor .
+Initiation of DNA replication requires the function of MCM gene products , which participate in ensuring that DNA replication occurs only once in the cell cycle .
+In this study , we examined the transcriptional activities of isolated human MCM gene promoters .
+Human MCM5 and MCM6 promoters with mutation in the E2F sites failed in promoter regulation following serum stimulation and exogenous E2F expression .
+Forced expression of E2 F1 could induce expression of all members of the endogenous MCM genes in rat embryonal fibroblast REF52 cells .
+We found that two members of the NSAIDs , sodium salicylate and sulindac repress the IL1B promoter to similar degree to heat shock or HSF1 over expression .
+Exposure to NSAIDs had a complex effect on HSP gene expression and while sulindac activated the stress responsive HSP70B promoter , sodium salicylate did not .
+In addition , only a subset of the NSAIDs induced HSP70 mRNA species .
+Jagged1 belongs to the DSL family of ligands for Notch receptors that control the proliferation and differentiation of various cell lineages .
+However , little is known about the transcription factors that regulate its expression .
+Thus , localization of both factors to the nucleus is not sufficient for activation of gene expression .
+Taken together , these data suggest that a third component is necessary for gene activation and that this third component may vary with cell type .
+Comparative sequence analysis of HS I between human and mouse shows approx .
+These findings demonstrate differential lineage requirements for expression within the HS I element .
+Inhibition with monoclonal antibodies and peptide antagonists inferred that this was due to reduced expression of Ig integrin ligand as well as of chemokines specifically involved in these events .
+One feature of this chromatin reorganization is the formation of DNase 1 hypersensitive sites in the regions of active globin gene promoters .
+Constructs were stably transfected into murine erythroleukemia cells and promoter chromatin structure and gene expression were analyzed .
+The proliferative deficiency of the transgenic T cells was associated with an increased apoptosis .
+Repression by Ikaros and Aiolos is mediated through histone deacetylase complexes .
+This function is mediated through two repression domains and is dependent upon the promoter context and cell type .
+We have now investigated the mechanism of action of a new analogue of UP , PNU156804 , which shows a more favorable activity profile than UP in mice .
+Since 1988 , several families of functionally important T cell transcription factors have been identified .
+Malignant transformation usually inhibits terminal cell differentiation but the precise mechanisms involved are not understood .
+Our results indicate that the stoichiometry of directly interacting but opposing transcription factors may be a crucial determinant governing processes of normal differentiation and malignant transformation .
+This observation may explain , in part , some of the functional differences observed for alveolar macrophages compared with monocytes .
+Genetic variation in cytokine promoter regions is postulated to influence susceptibility to infection , but the molecular mechanisms by which such polymorphisms might affect gene regulation are unknown .
+The variability of response even to the most narrowly targeted agents suggests that these diseases are far more heterogeneous in humans than in their murine counterparts .
+Clinicians are only just beginning to recognize subclinical markers of response , and it may soon be possible to predict response on the basis of genetic composition .
+For the moment , however , the field of pharmacogenetics is embryonic .
+Challenges in developing new therapeutic strategies include not only identifying novel agents , but also improving the definitions of clinical endpoints and defining efficacy at the biologic level .
+Only through considered evaluation of clinical evidence may clinicians determine which therapies should remain novelties and which should become an accepted part of the armamentarium .
+Better understanding of transcriptional regulation of adhesion molecules in ECs may provide important insight into plaque formation .
+Finally , PPARalpha activators significantly reduced adhesion of U937 cells to cultured human ECs .
+The intracellular parasite Theileria parva protects infected T cells from apoptosis .
+The intracellular parasite Theileria parva secures its propagation and spreads through the infected animal by infecting and transforming T cells , inducing their continuous proliferation and rendering them metastatic .
+A high expression of WT1 has been detected in a range of acute leukemias , and WT1 is downregulated during induced differentiation of some leukemic cell lines .
+Overexpression of WT1 in some myeloid cell lines confers resistance to differentiation induction .
+These observations suggest that a high WT1 expression in hematopoietic cells is incompatible with differentiation .
+In this study , each of the four different isoforms of WT1 was constitutively overexpressed in the leukemic cell line K562 .
+K562 cells express endogenous WT1 , which is downregulated as a response to induced differentiation along the erythroid and megakaryocytic pathways .
+We conclude that downregulation of WT1 during induced differentiation of K562 cells is not a prerequisite for erythroid or megakaryocytic differentiation of these cells .
+In T cell hybridomas , both T cell activators and glucocorticoids induce apoptosis .
+The reduction of IkappaBalpha by DZA is neither involved in IkappaB kinase complex activation nor modulated by the addition of homocysteine .
+Moreover , the effect of cell adhesion to fibronectin or laminin was studied to investigate mechanisms involved in STAT1 activation .
+The molecular events leading to enhanced STAT1 activation and cytokine responsiveness concerned both Y701 and S727 STAT1 phosphorylation .
+PPARgamma activation induces the expression of the adipocyte fatty acid binding protein gene in human monocytes .
+Activation of PPARgamma may play a role in the induction of differentiation of macrophages to foam cells that are associated with atherosclerotic lesions .
+Some pulmonary diseases like bronchitis or asthma bronchiale are mediated by inflammatory mechanisms in bronchial epithelial cells .
+Activation of TLRs by microbial lipoproteins may initiate innate defense mechanisms against infectious pathogens .
+Apoptosis is implicated in the generation and resolution of inflammation in response to bacterial pathogens .
+BLPs also initiated apoptosis in an epithelial cell line transfected with hTLR2 .
+Role of the camp response element site in mediating repression by the upstream regulatory region .
+Many of the effects of CD40 are believed to be achieved through altered gene expression .
+Distinctive gene expression patterns in human mammary epithelial cells and breast cancers .
+Clusters of coexpressed genes identified through manipulations of mammary epithelial cells in vitro also showed consistent patterns of variation in expression among breast tumor samples .
+Clusters of genes with coherent expression patterns in cultured cells and in the breast tumors samples could be related to specific features of biological variation among the samples .
+Clusters of genes expressed by stromal cells and lymphocytes in the breast tumors also were identified in this analysis .
+However , the mechanism of the antiapoptotic effects is unclear .
+Without NFAT nuclear translocation , the FasL gene is not transcribed .
+Thus , it appears that paclitaxel and other drugs that disturb microtubule function kill cells at least in part through the induction of FasL .
+However , the molecular mechanism of Rb rescue of the class II genes is unknown .
+Each second messenger is necessary , as inhibition of either one reverses the activation of the IKK complex and IkappaBalpha phosphorylation in vivo .
+However , under conditions of inflammatory response after infection , TNF might also be present in the intermediate thymocyte compartment , leading to efficient HIV replication in these cells .
+Although the role of CD28 in T cell costimulation is firmly established , the mechanisms by which it exerts its costimulatory actions are less clear .
+Nevertheless how the protective response is exerted by flavonoids is not well characterized .
+Of six flavonoids tested , myricetin was found to strongly inhibit IKK kinase activity , and prevent the degradation of IkappaBalpha and IkappaBbeta in activated endothelial cells .
+Furthermore , myricetin was also found to inhibit NFkappaB activity correlated with suppression of monocyte adhesion to ECV304 cells .
+M2 leukemic blast cells behave differently because they undergo monocytic differentiation with both the differentiation inducers .
+We have focused on the study of the signal transduction pathways triggered by CD23 in human monocytes and the promonocytic cell line U937 .
+Surface expression of CD23 was determined by FACS analysis .
+IkappaBalpha phosphorylation and degradation was analyzed by Western blot .
+Recent studies have reported that lymphocytes produce , transport and bind dopamine present in plasma .
+These complexes arise in a developmentally regulated pattern , peaking at the promyelocyte stage , or in cell model systems , appearing soon after the induction of monocytic differentiation .
+Surprisingly , however , DMSO has no effect on inducible Rel A binding .
+Further definition of this pathway will yield new insights into inflammation initiated by TNFalpha signalling .
+Neutrophil maturation occurs in well defined morphological stages that correlate with the acquisition of molecular markers associated with neutrophil function .
+A variety of factors are known to play a role in terminal neutrophil maturation , including the vitamin A derivative , retinoic acid .
+Retinoic acid can directly modulate gene expression via binding to its nuclear receptors , which can , in turn , activate transcription of target genes .
+A role for retinoic acid during neutrophil maturation has been suggested from a variety of sources .
+Here we present a review of the mechanism of retinoic acid receptor action and the major evidence showing that normal retinoid signaling is required for neutrophil maturation .
+However , the mechanism by which IFNs mediate this inhibition has not been defined .
+One hundred milligram of hydrocortisone was injected intravenously into 4 normal subjects .
+Blood samples were obtained prior to the injection and at 1 , 2 , 4 , 8 and 24 hr after the injection .
+Nuclear extracts and total cell lysates were prepared from MNC by standard techniques .
+This decrease was observed at 2 hr , reached a nadir at 4 hr , and returned to baseline levels at 24 hr .
+Indeed , we detected gangliosides in supernatants from RCC explants and not from adjacent normal kidney tissue .
+Substitution of the optimized peptide sequence into the natural calcineurin docking site increased the calcineurin responsiveness of NFAT .
+The data suggest that differences in functional responses elicited in monocytes by all three factors may be dependent on different routes on nuclear signalling employed by the factors .
+We have found that ISG expression in the monocytic U937 cell line differs from most cell lines previously examined .
+Activation of ISGF3 alpha , the latent component of ISGF3 , occurs rapidly .
+Together , this evidence strongly implicates BSAP in the regulation of the CD19 gene .
+Activation of T lymphocytes induces transcription of genes encoding for lymphokines .
+CsA was found not to inhibit lck gene expression , nor the activity of the lck gene product .
+The work reviewed in this article separates T cell development into four phases .
+This phase can occur to some extent outside of the thymus .
+Second is a controlled phase of TCR gene rearrangement .
+The details of the regulatory mechanism that selects particular loci for rearrangement are still not known .
+In the TCR alpha beta lineage , however , the final gene rearrangement events are accompanied by rapid proliferation and an interruption in cellular response gene inducibility .
+The genes that need to be induced for this response are not yet identified , but it is unquestionably a form of activation .
+Even so , medullary thymocytes remain at least partially susceptible to negative selection even as they continue to mature .
+The regulation of the human tumor necrosis factor alpha promoter region in macrophage , T cell , and B cell lines .
+Transcription of the hypersensitive site HS2 enhancer in erythroid cells .
+The mechanism of HS2 enhancer function is not known .
+There is little information available on the response of NF kappa B to cytokines in normal human monocytes .
+Using this assay , we have detected NF kappa B in extracts of nuclei from normal human monocytes .
+The constitutive transcription factor SP1 was unaffected by addition of TPA .
+Activation of T cells is initiated by the recognition of antigen on antigen presenting cells to exert the effector functions in immune and inflammatory responses .
+Although lymphokine genes are coordinately regulated upon antigen stimulation , they are regulated by the mechanisms common to all as well as those which are unique to each gene .
+Yet phorbol ester alone or calcium ionophore alone produce several lymphokines .
+This approach allows the convenient generation of RNA polymerase II transcription systems from Saccharomyces cerevisiae , human lymphocytes , and Schizosaccharomyces pombe .
+TFIIDs from all three organisms are interchangeable among all three systems .
+This interaction is believed to be an important component of the mechanism of transactivation .
+The regulation of gene expression during lymphocyte differentiation is a complex process involving interactions between multiple positive and negative transcriptional regulatory elements .
+The plasmids carrying multiple copies of the P sequence showed higher responsiveness to the stimulation .
+The effect appeared within 30 min and returned to basal levels after 2 h .
+We also showed that this silencer has stronger inhibitory activity in HeLa cells , as compared to K562 human erythroleukemia cells .
+Two binding proteins are detected in K562 nuclear extracts , while only one is found in extracts from HeLa cells .
+Furthermore , a positive regulatory element was found 45 bp downstream of the NRE .
+The enhancer activity of the PRE was completely suppressed when the NRE was present .
+Therefore , this pathway appears as a crucial step in the initiation of early T cell activation events .
+Oct2 expression was unable to stimulate a multimerized octamer enhancer element in HeLa cells , however .
+Our analyses show that several Oct2 isoforms can stimulate from a remote position but that this stimulation is restricted to B cells .
+Moreover , this domain conferred enhancing activity when fused to the Oct1 protein , which by itself was unable to stimulate from a remote position .
+Mutagenesis indicates that the 21 bp repeats can be subdivided into three motifs , A , B and C , each of which influences the level of tax activation .
+Furthermore , while PMA activation was inhibited by the PKC inhibitor staurosporin , the TNF alpha effect was unchanged .
+TNF alpha did not activate cAMP production and its signal was not modulated by cAMP activators .
+However , the signaling requirements and sensitivity to protein synthesis inhibitors differ considerably .
+This structural similarity suggests that the pAT 133 gene encodes a transcription factor with a specific biological function .
+This difference in gene regulation suggests distinct biological roles in the control of cell proliferation for the respective proteins .
+While this expectation may be realized in some cases , we have not found evidence for it .
+A total of 27 combinations of different promoters and enhancers were tested by transfection into cultured cells .
+Lymphoid differentiation is one of the best studied examples of mammalian development .
+In contrast , formation of the B1 complex , reflecting the binding of p75 and p85 , critically depends upon the more 3 ' sequences of this enhancer element .
+In contrast , mild oxidation with glucose oxidase selectively inhibits p75 and p85 binding while not blocking p50 and p55 interactions .
+Uninduced or Sendai virus induced HeLa extracts were used to examine transcription in vitro using a series of IFN beta promoter deletions .
+Deletions upstream of the PRDII element increased transcription in the uninduced extract , indicating predominantly negative regulation of the promoter .
+We have cloned a group of cDNAs representing mRNAs that are rapidly induced following adherence of human monocytes .
+Inhibition of protein phosphatases by okadaic acid induces AP1 in human T cells .
+Okadaic acid was found to be a potent inducer of AP1 .
+Surprisingly , while the addition of phytohemagglutinin further enhanced the induction of AP1 , the addition of PMA inhibited it .
+By comparison , PMA is a very inefficient inducer of the jun gene family in Jurkat cells .
+The GS strain transactivated the promoter in both stimulated and resting T cells , while the Z29 strain increased HIV promoter activity only in stimulated T cells .
+One of these clones , pZVH14 , activated the HIV promoter construct containing a mutation in the NF kappa B site .
+The B2 factor was induced in the nuclei of these cells only upon HIV1 infection .
+The B3 factor was only slightly evident in nuclei of uninfected cells but was readily detectable in nuclei of infected monocytes .
+This factor remained clustered in the cytosol and was translocated to the nuclei only after HIV1 infection .
+The role of HIV1 infection in the expression and the translocation of these factors is discussed .
+Thus , stimulation of monocyte cell lines by phorbol esters or TNF alpha induces cell differentiation and activates HIV transcription .
+Such a process may have fundamental implications in AIDS pathogenesis in vivo and may be important in disease progression induced by opportunistic infections directly or indirectly involving macrophages .
+The three jun genes showed a similar time course in their induction by PMA , maximal mRNA levels being reached after 60 min of induction .
+A less pronounced reduction in lambda L chain and microH chain was also noted .
+This induction of CAT activity was sensitive to dexamethasone .
+Evaluation of the role of ligand and thermal activation of specific DNA binding by in vitro synthesized human glucocorticoid receptor .
+Using this assay system , we have evaluated the contributions of ligand binding and heat activation to DNA binding by these glucocorticoid receptors .
+In vitro translated hGR was capable of selective DNA binding even in the absence of glucocorticoid .
+DNA binding by in vitro synthesized GR was blocked by the addition of sodium molybdate to the receptor preparations before steroid addition and thermal activation .
+Similarities between the effects of dexamethasone and RU486 suggest that the antiglucocorticoid properties of RU486 do not occur at the level of specific DNA binding .
+These differences in gene expression have not been molecularly defined .
+The predicted amino acid sequence of this protein contains features characteristic of transcriptional activators as well as transcriptional repressors .
+Cotransfection studies with this cDNA indicate that it can repress basal promoter activity .
+The apparent dual function of this protein is discussed .
+Now we have examined the effect of the nature of the monocyte activating signal on these two inhibitory mechanims .
+This difference was also seen at the mRNA level .
+Thus , each factor may function as a novel negative regulator of transcription .
+The cells lines described here should be useful for the delineation of signaling pathways utilized in the selective regulation of gene expression .
+A significant proportion of transcripts appear to terminate prematurely in the absence of transactivators .
+Footprinting analysis revealed that the identical sequence CCGAAACTGAAAAGG , designated E6 , was protected by nuclear extracts from B cells , T cells , or HeLa cells .
+Thus , the novel enhancer element identified in this study is probably a target site for both positive and negative factors .
+A factor with apparently indistinguishable sequence specificity can be induced in many other cell types , where it is used to regulate inducible gene expression .
+However , these genes are not constitutively active in B lymphocytes , suggesting that other regulatory mechanisms must play a role in determining the patterns of expression .
+The translated protein showed weak DNA binding with a specificity for the kappa B binding motif .
+It is located in the nucleus in mature B cells , but is present in other cell types as an inactive cytoplasmic complex .
+In T cells , HIV transcription is poorly detected in vivo .
+In contrast , fixed tissue macrophages express detectable HIV proteins , indicating permanent virus transcription .
+One of the major objectives in the study of thrombogenesis is to determine the mechanisms by which a hematopoietic progenitor is activated and committed to the megakaryocytic lineage .
+In addition , deletion of the region containing these two domains results in a significant decrease of the promoter activity .
+Cortivazol is a phenylpyrazolo glucocorticoid of high potency and unusual structure .
+Increased levels of GR mRNA were noticed as early as 3 h after treatment .
+Human tumor necrosis factor alpha gene regulation in phorbol ester stimulated T and B cell lines .
+Hydrogen peroxide and oxygen radicals are agents commonly produced during inflammatory processes .
+Activity of the immunoglobulin heavy and kappa light chain gene enhancers depends on a complex interplay of ubiquitous and developmentally regulated proteins .
+A factor known to bind to endogenous Ig heavy chain enhancer only in lymphocytes is a ubiquitously active transcription factor .
+Like other enhancers , the Ig heavy chain enhancer contains several short sequence motifs that bind specific transcription factors .
+Each binding site contributes to the overall activity of the enhancer , however no single element seems absolutely required for activity .
+For a better understanding of the Ig heavy chain enhancer components , we have cloned and analyzed individual sequence elements .
+We find that the factor that binds to the E3 enhancer motif , CATGTGGC , is a ubiquitous transcription factor .
+This effect was comparable to or even stronger than the effect of a mutation in the OCTA site .
+Moreover , combined mutation of both microB and OCTA sites further reduced enhancer activity in lymphoid cells .
+Nevertheless , a multimer of the microB motif alone showed no enhancer activity .
+These results demonstrate that the transcription of nuclear protooncogenes is regulated by heat shock indicating a role for nuclear protooncogenes in the stress response of lymphoid cells .
+Induction of the enhancer may have a role in the increase in globin gene transcription that characterizes erythroid maturation .
+Adherence is an important initial step in the transition of a circulating monocyte to a tissue macrophage .
+This differentiation is accompanied by an augmented capacity to generate growth factors .
+Modulation of these events at the time of adherence offers a mechanism by which differential priming of the cells may be accomplished .
+The sexual difference in the incidence of autoimmune diseases has remained an enigma for many years .
+Two distinct signal transmission pathways in T lymphocytes are inhibited by complexes formed between an immunophilin and either FK506 or rapamycin .
+The drug concentrations required for antagonism may be explained by the relative affinity of the drugs to , and by the abundance of , the immunophilin FKBP .
+Neither FKBP binding nor inhibition of rotamase activity of FKBP alone is sufficient to explain the biologic actions of these drugs .
+We also observed the induction of the myelomonocytic specific tyrosine kinase hck gene simultaneously with the other immediate early response genes .
+These genes may then play a role in altering the physiologic status of the cells in response to CSF .
+Phorbol ester or specific antigen recognition induced HIV LTR transactivation , whereas stimulation with tumor necrosis factor or antibody to CD3 did not .
+A primary site of infection by human adenoviruses is lymphoid cells .
+However , analysis of the viral control elements and the cellular factors that regulate adenoviral gene expression in lymphocytes has not been reported .
+These studies detected two novel domains referred to as L1 and L2 with a variety of lymphoid but not HeLa extracts .
+Characterization of defensin resistance phenotypes associated with mutations in the phoP virulence regulon of Salmonella typhimurium .
+The predicted periplasmic domain of the PhoQ protein contained a markedly anionic domain that could interact with cationic proteins and that could be responsible for resistance to defensin .
+We found that resistance to defensin requires the function of both components of this regulatory system , because strains expressing PhoQ without PhoP were still markedly sensitive to defensins .
+To better understand the molecular mechanisms underlying suppression by CsA , we have investigated the effects of this drug on transcription factors in T cells .
+This suggests a model in which functionally indistinguishable kappa B complexes can be activated via two separate pathways of signal transduction distinguishable by CsA .
+Using the electrophoretic mobility shift assay , at least six novel octamer binding proteins were detected in nuclear extracts of cultured mouse astrocytes .
+These proteins are differentially expressed in human glioblastoma and neuroblastoma cell lines .
+This gene is yet another in a growing list of important regulatory molecules whose expression is transcriptionally induced upon cellular activation .
+Alteration of gene transcription by inhibition of specific transcriptional regulatory proteins is necessary for determining how these factors participate in cellular differentiation .
+The functions of these proteins can be antagonized by several methods , each with specific limitations .
+The modified oligonucleotides accumulated in cells more effectively than standard ds oligonucleotides and modulated gene expression in a specific manner .
+T cell activation results in high levels of HIV replication and is thought to be one mechanism leading to the conversion from latent to active viral infection .
+An in vitro globin gene switching model based on differentiated embryonic stem cells .
+We conclude from these experiments that the ES cell system provides a good model to study hematopoietic development .
+We show that at least one inducible , C1 , and one constitutive , C2 , protein can bind to the HIV enhancer in Jurkat cells .
+The proteins identified have molecular weights of about 32 , 36 to 42 , 50 and 110 kD .
+Four different methods were used to identify the proteins .
+Constitutive expression was observed in a small population of cells in the dermis and some mice have developed skin lesions .
+All three proteins show the same sequence specificity and binding affinity .
+Recently , a number of other octamer factor variants were identified .
+Thrombin stimulated tyrosine phosphorylation of several proteins of molecular mass 40 , 42 , 70 , 120 , and 130 k Da .
+Thrombin and TRP also caused translocation of protein kinase C from the cytosol to the plasma membrane .
+The magnitude of the thrombin response in the different cell types paralleled the expression of the thrombin receptor mRNA .
+These findings highlight the role of thrombin as a potential regulator of T lymphocyte activation .
+Sp1 is a critical factor for the monocytic specific expression of human CD14 .
+CD14 is a membrane glycoprotein expressed specifically on monocytes and macrophages , and its expression is markedly increased during the process of monocyte differentiation .
+In order to study CD14 gene regulation , the human CD14 gene was cloned from a partial EcoRI digested chromosome 5 library .
+Four regions in this DNA fragment interact with nuclear proteins isolated from monocytic cells .
+The Sp1 transcription factor bound to three different regions in the CD14 promoter .
+Tolerance to lipopolysaccharide involves mobilization of nuclear factor kappa B with predominance of p50 homodimers .
+Furthermore , loss of CD5 surface expression correlated with the absence of specific mRNA .
+In the second approach , we tested the generality of this phenomenon by transiently expressing LMP1 from a strong constitutively active promoter in a range of different cell types .
+A critical issue concerns the mechanism by which CD14 , which has no transmembrane domain , transduces its signal following LPS binding .
+This region contains two binding sites for the Sp1 transcription factor .
+These data demonstrate that Vit D3 induces CD14 indirectly through some intermediary factor , and suggest a critical role for Sp1 in this process .
+When bound to cyclophilin , cyclosporin A binds and inactivates the key signalling intermediate calcineurin .
+Upon stimulation of the cells , this protein no longer prevents binding of DNA by Band A , and suppression of binding is restored within 30 min .
+Steel factor affects SCL expression during normal erythroid differentiation .
+In day 7 and day 10 erythroid precursors cultured with Steel factor , SCL protein was increased significantly compared to control .
+The increase in SCL protein levels in early erythroid precursors stimulated with Steel factor suggests one mechanism through which Steel factor may enhance normal erythroid proliferation .
+Tyrosine kinase activity is increased shortly after engagement of this receptor .
+We propose the common pathway as the simplest way of accounting for the common requirements and properties of the signaling pathway .
+Overexpression of UDG in Saos 2 cells was observed to delay growth late in G1 phase and transiently arrest these cells from progressing into the S phase .
+This hypothetical model integrates one mechanism of DNA repair with the cell cycle control of gene transcription , likely through E2F .
+These effects of aspirin were not related to the inhibition of cyclooxygenase activity , since indomethacin was ineffective .
+Danazol did not alter the degradation rate of ER mRNA in monocytes .
+A possible signaling role for the Syk tyrosine kinase .
+Activation of cytoplasmic tyrosine kinases is an important aspect of signal transduction mediated by integrins .
+The components tyrosine phosphorylated subsequent to cell adhesion include paxillin , pp125 FAK , and the SH2 domain containing tyrosine kinase Syk .
+In contrast , integrin ligation with antibodies induces tyrosine phosphorylation of Syk but not of FAK or paxillin .
+Nitric oxide selectively reduces endothelial expression of adhesion molecules and proinflammatory cytokines .
+As we observed that activated endothelial cells also expressed NFAT , we tested the antiinflammatory properties of CsA in endothelial cells .
+This represents the first report of NFAT in endothelial cells and suggests mechanisms by which CsA could function as an antiinflammatory agent .
+Accessory molecules play a crucial role in the development of the T cell response to antigenic challenge .
+Genomic sequence upstream of the Fc gamma RIC gene was cloned and subjected to primer extension analysis , which demonstrated a single transcription initiation site without a TATA box .
+They inhibit synthesis of almost all known cytokines and of several cell surface molecules required for immune function , but the mechanism underlying this activity has been unclear .
+Primed monocytes transcribed TNF mRNA at a higher rate than freshly isolated monocytes upon activation with LPS .
+Consistent with the increased mRNA stability , the duration of mRNA accumulation was longer following LPS stimulation in primed monocytes , in addition to being of greater magnitude .
+We previously identified the DNA consensus binding site recognized by the two DNA binding domains .
+Because these genes play a positive role in cell proliferation , we suggest that this regulatory switch contributes to controlling entry into the cell cycle .
+Oxidative stress , with reactive oxygen intermediate formation , may represent a common mechanism by which liver injury is induced by diverse etiologies .
+Acute hepatic injury caused by reactive oxygen intermediate production was induced by an intraperitoneal injection of CCl4 in mice .
+The T cell activation is initiated by interaction of specific Ags with TCR , followed by activation of intracellular biochemical events leading to activation of several genes .
+Further , like PMA , TG markedly induced NF kappa B in Jurkat T cells .
+One substrate is p95vav , which is expressed exclusively in hematopoietic and trophoblast cells .
+It contains a number of structural motifs , including Src homology 2 , Src homology 3 , and pleckstrin homology domains and a putative guanine nucleotide exchange domain .
+Furthermore , the activating function of p95vav is blocked by FK506 , suggesting that its activity also depends on calcineurin .
+Taken together , our data suggest that p95vav plays an important role at an yet unidentified proximal position in the TCR signaling cascade .
+In addition , HU stimulates the synthesis of fetal hemoglobin in sickle cell anemia patients .
+This was followed by a gradual decline to the basal level by 24 h .
+Characterization of 5 ' end of human thromboxane receptor gene .
+Platelet thromboxane receptors are acutely and reversibly upregulated after acute myocardial infarction .
+To determine if platelet thromboxane receptors are under transcriptional control , we isolated and characterized human genomic DNA clones containing the 5 ' flanking region of the thromboxane receptor gene .
+The thromboxane receptor gene has neither a TATA nor a CAAT consensus site .
+Thromboxane receptor promoter activity , as assessed by CAT expression , was relatively weak but was significantly enhanced by phorbol ester treatment .
+Mutations in the tat gene have been shown to block HIV replication in human T cells .
+It is possible that Tat is also needed for other functions during HIV replication .
+Large amounts of viral RNA and particles were synthesized in infections established using the tat mutants that contain modified LTRs .
+The viral encoded protein tax , is thought to play an important role in oncogenesis .
+Our previous data obtained from a tax transgenic mouse model revealed that tax transforms mouse fibroblasts but not thymocytes , despite comparable levels of tax expression in both tissues .
+We used deletion analysis and transfection assays with reporter gene constructs to examine the transcription control elements in the 5 ' flanking region of the human EpoR gene .
+The 150 bp hEpoR promoter exhibited high and low activity in erythroid OCIM1 and K562 cells , respectively , reflecting the high and low levels of constitutive hEpoR expression .
+Similar chromosomal rearrangements occur also in the clonally expanded T cells in AT patients before the appearance of the overt leukemia .
+These data indicate that TCL1 is activated in preleukemic clonal cells as a consequence of chromosome translocation involving sequences from the TCR locus at 14q11 .
+Deregulation of TCL1 is the first event in the initiation of malignancy in these types of leukemias and represents a potential tool for clinical evaluation .
+The mechanism of generation of p50 is not known .
+They have also shown that proteasome inhibitors block the processing both in vitro and in vivo .
+PMA induced the expression of both CD14 and CD23 mRNA and protein .
+Exposure to Vit D3 rapidly induced the de novo expression of CD14 mRNA and protein .
+The addition of cycloheximide completely blocked the Vit D3 induction of CD14 mRNA expression , indicating that the induction was dependent on ongoing protein synthesis .
+Conversely , several cytokines modulate the levels of HIV expression in infected cells of both T lymphocytic and mononuclear phagocytic lineage .
+The protooncogene p21ras , a monomeric G protein family member , plays a critical role in converting extracellular signals into intracellular biochemical events .
+In vitro studies using pure recombinant p21ras demonstrate that the activation is direct and reversible .
+These studies identify p21ras as a target of the same cell .
+These studies identify p21ras as a target of NO in T cells and suggest that NO activates p21ras by an action which mimics that of guanine nucleotide exchange factors .
+We have begun to examine the structure of the B2 subunit promoter region .
+Primer extension and ribonuclease protection analyses indicate a single major transcriptional start site .
+WIN 61058 and WIN 53071 were identified as microM inhibitors .
+A human T lymphoid cell line , PEER , dies by apoptosis in the presence of PMA and calcium ionophore .
+A new gene , TINUR , was cloned from apoptotic PEER cells .
+This function of PAF was observed at nanomolar concentrations of the ligand , starting at 30 min after stimulation .
+Pretreatment of monocytes with pertussis toxin inhibited these functions of PAF , whereas cholera toxin had no inhibitory effect .
+These binding activities are expressed only in activated T cells .
+However , the ALD stimulus is not capable of causing complete T cell activation .
+The nuclear factor binds to the DR alpha and DP alpha element but not to the element in the DQ alpha gene .
+Then the expression levels of AhR mRNA in various hematopoietic cell lines were examined together with those of Arnt and P450 IA1 .
+Furthermore , a specific induction of AhR during monocytic differentiation was investigated in HL60 and HEL cells .
+These results indicated that expression of AhR mRNA was significantly induced during monocytic differentiation and that the differentiated cells were responsive to xenobiotics .
+Our results suggest that AhR may play an important role in the function of monocytes and also in the eventual activation of environmental carcinogens .
+Deletion of the PAS domain of the receptor resulted in constitutive dimerization with Arnt .
+It was not possible to reconstitute dioxin receptor function with proteins expressed in wheat germ lysate .
+In line with these observations , reticulocyte lysate but not wheat germ lysate promoted the association of de novo synthesized dioxin receptor with hsp90 .
+Thus , the dioxin receptor system provides a complex and interesting model of the regulation of transcription factors by hsp90 .
+At variance , the second peak which has never been reported previously , lasted several hours .
+Second , tyrphostin , a tyrosine kinase inhibitor , impaired the expression of the first but not the second junB mRNA peak .
+Protein kinase C is not a downstream effector of p21ras in activated T cells .
+It has been reported that PKC is an effector of p21ras in T cells .
+Posttranscriptional regulation of macrophage tissue factor expression by antioxidants .
+Furthermore , these conditions did not result in an accumulation of the less mature forms of TF .
+Regulation of I kappa B alpha and p105 in monocytes and macrophages persistently infected with human immunodeficiency virus .
+Furthermore , persistent HIV infection of monocytes and macrophages provides a useful model with which to study concomitant modifications of different I kappa B molecules .
+The latter issue was investigated by comparing , in 8 cases , constitutive DNA from skin fibroblasts with leukemic DNA .
+No germline changes or rearrangements were observed in any of the genes studied .
+Thus , deregulation of genes encoding for certain hemopoietic growth factors or receptors does not seem to represent a major mechanism of MDS progression .
+Induction of apoptosis in lymphocytes , which may account for the therapeutic effects of glucocorticoids in various diseases including leukemia , depends on the glucocorticoid receptor .
+However , the events leading from the activated receptor to cell lysis are not understood .
+A similar potentiation of TNF effects was observed in Jurkat T cells and HeLa cells treated with soluble Tat protein .
+These two related genes share the evolutionarily conserved region encoding the Runt domain .
+The expression of the genes persisted in peripheral lymph nodes of adult mice .
+Glucocorticoids have an inhibitory effect on inflammatory and immune responses , and this may be through the modulation of transcription factor binding to DNA .
+These latter effects were due to increases in the nuclear localization of GR , not to reduced amounts of the other transcription factors .
+This may be an important molecular site of steroid action .
+In contrast , some of the genes displayed a restricted expression pattern , indicating that they represent potential regulators of monocyte differentiation or proliferation .
+Nef of primate lentiviruses is required for viremia and progression to AIDS in monkeys .
+Negative , positive , and no effects of Nef have also been reported on viral replication in cells .
+Two opposite phenotypes were found , which depended on the intracellular localization of Nef .
+Expressed in the cytoplasm or on the cell surface , the chimera inhibited or activated early signaling events from the T cell antigen receptor .
+Activated Jurkat cells died by apoptosis , and only cells with mutated nef genes expressing truncated Nef s survived , which rendered Nef nonfunctional .
+These mutations paralleled those in other viral strains passaged in vitro .
+The regulation of HIV by retinoic acid correlates with cellular expression of the retinoic acid receptors .
+After stimulation by PMA , RXR alpha expression increased in H9 and U937 cells but not in CEM cells .
+Human RAR alpha expression was unchanged in H9 and CEM cells , and elevated in U937 cells , after PMA stimulation .
+Endogenous or exogenously administered RA may have a significant role in HIV regulation .
+This element has no activity in T cells of the Jurkat line .
+Increased levels of replication of the HIV type 1 are observed after the activation of infected T cells through the TCR .
+Second , T cells , which lack CD45 and can not signal via the TCR , supported higher levels of viral replication and gene expression .
+Additionally , infected T cells displayed lower levels of CD45 on their surfaces .
+The ets gene family encodes a group of proteins which function as transcription factors under physiological conditions and , if aberrantly expressed , can cause cellular transformation .
+Pentoxifylline for the treatment of infection with human immunodeficiency virus .
+Pentoxifylline , a trisubstituted xanthine derivative , has been used to decrease blood viscosity and is reasonably well tolerated by most recipients of the drug .
+The stimulatory effects of gp160 are mediated through the CD4 molecule , since pretreatment with soluble CD4 abrogates its activity .
+These results suggest that Nef downmodulates LTR activation without significantly inhibiting the capacity of T cells to respond to immunological activations .
+NM23 was identified in a system of murine melanoma cell lines , in which an inverse relationship was found between NM23 expression and metastatic ability .
+In a human malignant melanoma study NM23 expression was found to be significantly lower in metastases that developed less than 24 months after diagnosis of the primary tumours .
+The magnitude of kappa B activity in unstimulated patient T cells was similar to that observed in T cells from normal individuals that had been activated in vitro .
+Western blotting analysis did not detect any RelA in nuclear extracts either before or after stimulation of T cells .
+In hematopoietic system , RA and RARs , predominantly RAR alpha may play key roles for the proliferation and differentiation of hematopoietic progenitors .
+However , it is currently unknown how RA and RARs are involved in regulating normal hematopoietic differentiation .
+Most cells infected with hRAR alpha exhibited promyelocytic morphology and were thought to be blocked at the promyelocytic stage in their myeloid differentiation .
+RAR alpha infected cells were also able to differentiate into mature macrophages in the both of long term culture and IL3 colony .
+The system described here may serve as a model for studying the the essential genes for differentiation of normal bone marrow cells .
+The truncation resulted from limited proteolysis of p65 during cellular extraction which released particular lysosomal serine proteases , such as elastase , cathepsin G , and proteinase 3 .
+As the protein tyrosine kinase activities p56lck and p59fyn are activated in intact cells by hydrogen peroxide , they are likely targets for GSSG action .
+These results support the hypothesis that EPO actively influences the programming of gene expression required for erythroid progenitor cell differentiation .
+A cDNA library was prepared from peripheral blood lymphocytes of an autoimmune patient with primary Sjogrens ' syndrome .
+Thereby an alternative type of La mRNA was identified that differed from the known La mRNA due to an exchange of the exon 1 .
+In addition , the presence of an alternative promoter site , which exists within the intron downstream of the exon 1 , became evident .
+In consequence , the alternative La mRNA is the result of a promoter switching combined with an alternative splicing mechanism .
+Enhanced responsiveness to nuclear factor kappa B contributes to the unique phenotype of simian immunodeficiency virus variant SIVsmmPBj14 .
+Infection with a variant of simian immunodeficiency virus , SIVsmmPBj14 , leads to severe acute disease in macaques .
+Finally , infectious virus stocks that were isogenic except for the LTR were generated .
+The LTR from SIVsmmPBj14 was found to confer an increase in the kinetics of virus replication in cultured cells .
+When analyzed by DNase footprinting , region II was protected preferentially in monocytic cells .
+Electrophoretic mobility shift assays confirmed that region II interacts specifically with nuclear proteins from monocytic cells .
+Promoter constructs with mutations in these sequence elements were no longer expressed specifically in monocytes .
+Furthermore , multimerized region II sequence elements enhanced the activity of a heterologous thymidine kinase promoter in monocytic cells but not other cell types tested .
+A factor that regulates the class II major histocompatibility complex gene DPA is a member of a subfamily of zinc finger proteins that includes a Drosophila developmental control protein .
+A novel DNA sequence element termed the J element involved in the regulated expression of class II major histocompatibility complex genes was recently described .
+Several DNA clones were obtained by this procedure , one of which , clone 18 , is reported and characterized here .
+Antisense cDNA to clone 18 inhibited the expression of a reporter construct containing the DPA promoter , indicating its functional importance in the expression of this class II gene .
+The induction of cell death in lymphoid cells by glucocorticoids is one of the earliest and most thoroughly studied models of apoptosis .
+Although the exact mechanism by which apoptosis occurs in lymphocytes is unknown many biochemical and molecular changes have been shown to occur in these cells in response to glucocorticoids .
+However , PDTC failed to inhibit the endonuclease activity contained in the whole cell lysates .
+The T cell surface molecule CD28 binds to ligands on accessory cells and APCs , playing an important costimulatory role in the response of T cells to Ags .
+Our knowledge of the intracellular signaling pathways coupled to this receptor is incomplete .
+Nevertheless , its properties seem to be most extensively exploited in cells of the immune system .
+They involve phosphorylation and proteolytic reactions and seem to be controlled by the cells ' redox status .
+Increased interleukin 2 transcription in murine lymphocytes by ciprofloxacin .
+Our experiments also show that activated PR does not confer direct transcriptional control on the dPRL promoter .
+Activation of early growth response 1 gene transcription and pp90rsk during induction of monocytic differentiation .
+Okadaic acid treatment of both cell types was associated with activation of pp90rsk .
+Our results suggest that the target of PGE2 action is a component in the signal transduction pathway leading to the activation of protein kinase C .
+However , the inhibition of the T cell activation signals by PGE2 is selective .
+The cascade of events within the first few minutes of T cell stimulation has been well characterized .
+We found that tyrosine kinase activity was similar for both mAbs over a period of hours .
+We have examined the role of cell surface molecules in these responses .
+Similarly , Jurkat T cell lines deficient in CD3 or CD45 expression also gave impaired UV responses .
+Binding of superantigens to MHC class II molecules results in transduction of biochemical signals leading to cellular activation and gene expression .
+The severe phenotype of females with tiny ring X chromosomes is associated with inability of these chromosomes to undergo X inactivation .
+Studies of these females show that the XIST locus on their tiny ring X chromosomes is either not present or not expressed .
+To understand GATA3 gene regulation , we cloned the human gene and the 5 ' end of the mouse GATA3 gene .
+We show that the human GATA3 gene contains six exons distributed over 17 kb of DNA .
+The human and mouse GATA3 transcription units start at a major initiation site .
+The promoter sequence analysis of these two genes revealed that they are embedded within a CpG island and share structural features often found in the promoters of housekeeping genes .
+Hypoxia causes the activation of nuclear factor kappa B through the phosphorylation of I kappa B alpha on tyrosine residues .
+Using in vitro footprinting and gel shift assays , we have identified four distinct binding sites for nuclear proteins within this positive regulatory element .
+Protein tyrosine kinases transmit signals from cytokine and immune receptors .
+Very little information exists linking these two important classes of signaling molecules .
+This complex was blocked by the tyrosine kinase inhibitor , herbimycin A .
+Activation of nuclear factor kappa B in human neuroblastoma cell lines .
+Genes encoding general initiation factors for RNA polymerase II transcription are dispersed in the human genome .
+General transcription factors are required for accurate initiation of transcription by RNA polymerase II .
+Human cDNAs encoding subunits of these factors have been cloned and sequenced .
+The critical region of THR beta was mapped to 3 amino acids in the distal box of the DNA binding domain .
+Hence , PPAR can positively or negatively influence TH action depending on TRE structure and THR isotype .
+Taken together , these data suggest that hypoxia constitutes a stimulus for leukocyte chemotaxis and tissue leukostasis .
+Here we show that alternative RNA splicing generates I kappa B gamma isoforms with properties different from those of p70 .
+These results are in a dose range where the viability of the cells remains very high .
+Inhibition of cytokine production was gene selective and not due to general effects on protein synthesis .
+An intricate arrangement of binding sites for the Ets family of transcription factors regulates activity of the alpha 4 integrin gene promoter .
+Here we examine molecular mechanisms controlling the pattern of alpha 4 expression .
+When all three sites were present , a second complex " a " was detected , which contains an unknown member of the Ets family .
+TF is the primary cellular initiator of the coagulation protease cascades .
+This nuclear complex was activated by LPS with kinetics that preceded induction of the TF gene .
+Stimulation of HIV replication in mononuclear phagocytes by leukemia inhibitory factor .
+This was detectable by 24 h and persisted until 72 h .
+These results identify LIF as a stimulus of HIV replication .
+Dysregulation of cytokines secreted by T cells may play an important role in the pathogenesis of AIDS .
+This phenomenon is correlated with inhibition of GATA1 induction in the early stages of erythropoietic differentiation .
+Purified recombinant Jun and Fos proteins failed to bind directly to the NFAT motif .
+Thus , positive autoregulation is neither a consequence nor the sole cause of growth arrest .
+Thus , the regulation of the gene coding for the main T cell growth factor changes irreversibly after the first encounter of T cells with antigen .
+Protein phosphatases 1 and 2A are important in regulating cellular functions by controlling the phosphorylation state of their substrates .
+These cDNA were 2343 bp long and their transcription initiation site was located 814 bp upstream from the J delta 1 segment .
+Two polyadenylation sites were present in the fourth C delta exon .
+This sequence contains a promoter specific to cells of hematopoietic lineage .
+Over its 3 ' end , it binds a factor that is ubiquitously and constitutively expressed .
+A dominant inhibitory ras mutant specifically blocked antigen receptor agonism , indicating that ras activity is required for antigen receptor signaling .
+In addition , an inhibitor of PKC blocked both activated ras and phorbol ester stimulation , suggesting a role for ras upstream of PKC .
+We further characterize which AP1 family members can assume this role .
+The X box region is critical for directing the expression of class II major histocompatibility complex genes in B lymphocytes .
+In contrast , protease treatment and analysis of SJO extracts showed no detectable levels of the band 1 pk activity .
+Expression of PILOT , a putative transcription factor , requires two signals and is cyclosporin A sensitive in T cells .
+We have identified a putative transcription factor , designated PILOT , with an identical dual signal requirement for expression .
+Induction of the PILOT gene is detectable in human T cells 20 min following activation in the presence of cycloheximide and is fully suppressed by CyA .
+This differential expression model will be valuable in the dissection of the dual signal pathway in T cells and the effects of CyA upon it .
+Hemin induction appears to nonspecifically increase the expression of transiently transfected genes in K562 cells .
+Furthermore , the substitution of this GATA binding site by a canonical TFIID binding site suppresses the promoter activity .
+These results should contribute to a better understanding of the regulation of IL3 gene expression in human T lymphocytes .
+On the other hand , only one of the apparently nonfunctional sequence motifs was bound with factors in vivo .
+Costimulation of peripheral blood T cell activation by human endothelial cells .
+The physiologic relevance of this increase was demonstrated by the proliferative advantage provided by EC to PBL suboptimally stimulated with mAb OKT3 .
+Nuclear extracts from primary human T lymphocytes were analyzed by electrophoretic DNA mobility shift assays .
+It has previously been shown that transcripts of the E2A gene can be detected in a wide range of cell types .
+Partial amino acid sequences obtained from purified EBF were used to isolate cDNA clones , which by multiple criteria encode EBF .
+In situ hybridization showed that apart from lymphocytes , thyroid cells themselves were the source of MHC II transcripts .
+Recent studies have provided new insights into how the individual genes of the cluster are regulated through development .
+In this study , we have focused on atypical PKC isoenzymes .
+Here , we describe the isolation and detailed characterization of the murine homolog .
+A particular allele has an unusually high transcriptional activity .
+The promoter and 5 ' flanking sequences controlling human B29 gene expression .
+To better understand the regulation of this pivotal gene , we have analyzed the human genomic DNA sequence upstream of the B29 ATG start codon for transcriptional control activity .
+The human B29 gene lacks either a TATA or a CAAT box and transcription is initiated at multiple sites .
+All these motifs are strikingly conserved in sequence and placement relative to the previously characterized murine B29 promoter .
+Additional upstream gene segments dramatically affected B29 minimal promoter activity .
+A single BCS had little effect either on the minimal B29 promoter or on a heterologous promoter .
+Instead , the BCS stimulated transcription by counteracting 5 ' negative regulatory DNA sequences that block the activity of the B29 minimal promoter in its absence .
+These findings indicate that B29 gene expression is controlled by the complex interplay of positive and negative regulatory elements .
+The effect of Toremifene on the expression of some genes in human mononuclear cells .
+Toremifene exerts multiple and varied effects on the gene expression of human peripheral mononuclear cells .
+Furthermore , ADT treated Wurzburg cells had significantly higher glutathione levels as compared with untreated cells .
+H2 O2 induced lipid peroxidation in Wurzburg cells was remarkably inhibited by ADT pretreatment .
+In vivo , anergy has mainly been studied at the cellular level .
+In addition to biophysical properties , pulmonary surfactant has immunomodulatory activity .
+Trapoxin is a microbially derived cyclotetrapeptide that inhibits histone deacetylation in vivo and causes mammalian cells to arrest in the cell cycle .
+A trapoxin affinity matrix was used to isolate two nuclear proteins that copurified with histone deacetylase activity .
+As the predicted protein is very similar to the yeast transcriptional regulator Rpd3p , these results support a role for histone deacetylase as a key regulator of eukaryotic transcription .
+GATA transcription factors associate with a novel class of nuclear bodies in erythroblasts and megakaryocytes .
+The nuclear distribution of GATA transcription factors in murine haemopoietic cells was examined by indirect immunofluorescence .
+For this purpose , we used three main approaches .
+Reversions or additional mutations were not detected in the U3 and R regions of proviral DNA from CEMxl74 cells infected with the SIVmac239 mutants .
+Thus , changes in the Sp1 binding sites had the most dramatic effects on SIVmac replication in primary macrophage cultures .
+In addition , the SIV TATA box was shown to be stronger than that of human immunodeficiency virus type 1 .
+In this report , we provide evidence that in addition to acting on IkappaBalpha , Tax stimulates the turnover Of IkappaBbeta via a related targeting mechanism .
+Here we identify the gene encoding the lymphocyte homing and migration protein CD44 as a target of EGR1 regulation in B cells .
+Studies of the kinetics of induction showed that the NFAT EMSA binding complex appeared earlier than the CMAT complex .
+The appearance of the CMAT binding complex was inhibited by both cyclosporin A and rapamycin .
+In these cells , CD36 is involved in phagocytosis of apoptotic cells , and foam cell formation by uptake of oxidized low density lipoprotein .
+To study the molecular mechanisms that control the transcription of the CD36 gene in monocytic cells we have isolated and analyzed the CD36 promoter .
+A signal transduction pathway activated by many cytokines has recently been elaborated .
+In this report , we describe the presence of constitutively activated STAT factors in peripheral blood cells from patients with acute leukemia .
+We used nonradioactive oligonucleotides as competitors to show the specificity of the complex formation .
+Specific antibodies directed against the individual STAT proteins were used in supershift experiments .
+Since the cells were not treated with cytokines before the nuclear proteins were extracted , we conclude that these factors are constitutively activated in vivo .
+It is likely that the constitutive activation of STAT proteins is a part of the events of leukemogenesis .
+Human monoblastic leukemia U937 cells are induced to differentiate into monocytes and macrophages by various agents .
+However , the combined stimulation did not result in enhanced p50 and p65 protein expression .
+In Jurkat cells this effect was rapid and transient , but in Wurzburg cells the response was slow and sustained .
+The distribution of this integral membrane protein is restricted to certain tissues where its level of expression is modulated by multiple exogenous stimuli .
+This is the first description , to our knowledge , of regulatory elements that control expression of a gene encoding a B7 costimulatory molecule .
+When the binding of ICSAT to four different ICSs was tested , the relative differences in binding affinities for those ICSs were determined .
+Tissue specific regulation of gene expression by transcription factors is a fascinating new field in molecular immunology .
+The structural classes of transcription factors are described and basic methods for detection and analysis of transcription factors are detailed .
+The AC unit is demonstrated to enhance basal activity of promoters both in fibroblasts and T cells .
+This activity is further inducible in activated T cells , but not in fibroblasts .
+In addition to the already identified NIP repressor site , evidence is presented for a second repressor region that restricts promoter activity in fibroblasts .
+Multiple transcription factors are required for activation of human interleukin 9 gene in T cells .
+Mutations at different sites within this proximal promoter region abolished the promoter activity as well as the DNA binding .
+When this domain was transferred to a potent activator , transcription was strongly inhibited .
+We identified a stretch of 23 amino acids , rich in serine and threonine residues , which was responsible for most of the repression activity .
+We show that repression is strongly dependent on the type of enhancer present in the reporter plasmid as well as on the cell line tested .
+Furthermore , the anatomy of interaction between the MHC class II DRA promoter and corresponding binding factors was analyzed by in vivo DNAse I footprint .
+Transcription factors of the NFAT family play a key role in the transcription of cytokine genes and other genes during the immune response .
+The Ets proteins share a conserved Ets domain that mediates specific DNA binding .
+We have defined the mechanisms of transactivation by NFAT1 .
+Constitutive expression of specific interferon isotypes in peripheral blood leukocytes from normal individuals and in promonocytic U937 cells .
+This endogenous IFN was also shown to play a role in maintaining the basal level of expression of the major histocompatibility class I genes in lymphoid cells .
+These data suggest that different members or isoforms of NFAT gene family may regulate inducible expression of different cytokine genes .
+The current study was conducted to evaluate the cytokine modulating activity of tepoxalin and the role of iron in these effects .
+Tepoxalin also inhibits the activation of NF kappa B , a transcription factor which acts on several cytokine genes .
+Tepoxalin 's effect on NF kappa B is also reversed by the addition of iron salts .
+Upon infection , Wp is initially active , followed by a switch to Cp for the duration of latency .
+In general , deletions which diminished Cp activity resulted in induction of Wp activity , consistent with suppression of Wp activity by transcriptional interference from Cp .
+The Id1 protein was found to repress ALF1 activity in vitro and in vivo .
+A number of recent studies have described interactions between transcription factors in lymphocytes that provide new insights into mechanisms regulating gene expression .
+Involvement of tyrosine phosphorylation in endothelial adhesion molecule induction .
+Transcription specific differences visualized by fluorescence in situ hybridization pattern on interphase nuclei of different cell types .
+RNase treatment prior to hybridization considerably reduces the size of this signals .
+In comparison , isolated nuclei of human lymphocytes in which no need for the expression of this gene exists , show barely hybridization signals .
+Correspondingly , RNase treatment had no effect on hybridization pattern at all .
+In conclusion an increased transcription efficiency of a cell type specific gene is accompanied by a higher hybridization accessibility in the corresponding cell nuclei .
+Precise alignment of sites required for mu enhancer activation in B cells .
+Therefore , costimulation by alpha 4 beta 1 ligands was not due to stabilization of the interaction of the cells with its substrate .
+Inhibition of transcription factor Stat1 activity in mononuclear cell cultures and T cells by the cyclic AMP signaling pathway .
+Activation of T cells results in a cascade of gene activation and subsequent proliferation and differentiation into effector phenotypes .
+Increased Stat1 and Stat3 mRNA and protein levels were detected , respectively 4 and 24 h after activation .
+Stimulation of the cAMP signal transduction pathway , which skews cytokine production toward a Th2 pattern , resulted in the preferential suppression of Stat1 activity .
+The induction of immediate early genes in cells of the immune system is critical to determining the ultimate outcome of exposure to antigen .
+Activation of Stat 5b in erythroid progenitors correlates with the ability of ErbB to induce sustained cell proliferation .
+In contrast , activated T lymphocytes from older individuals show a significant reduction in the induction of NF kappa B in response to the same stimuli .
+Tax does not bind directly to DNA but rather deregulates the activity of cellular transcription factors .
+Upon cellular activation , I kappa B alpha is phosphorylated , polyubiquitinated , and degraded in the proteasome .
+Understanding how viral latency is disrupted is a central issue in herpesvirus biology .
+Cellular regulation of BZLF1 transcription is therefore thought to play a key role in regulating the stringency of viral latency .
+Characterization of the human myeloid cell nuclear differentiation antigen gene promoter .
+In addition , DNA methylation was revealed as one of the possible factors in establishing MNDA expression .
+The 5 ' flanking sequence has promoter activity which is elevated by interferon alpha .
+Significantly , the CBF sites are in each case contained within the minimum essential core regions required for inducible activation of transcription .
+Furthermore , biologic functions are modulated , in that the hormone inhibits proliferation in a subset of the activated B cells .
+Sialoadhesin expression was functional as shown by cell adhesion assays with human RBCs .
+Northern blotting experiments indicated that regulation predominantly occurred at the mRNA level .
+They are composed of different structural domains , including distinct domains for DNA and ligand binding .
+For all other arginine mutations , no differences in affinity were detectable .
+The two mutations R217A and R294A caused an increased binding efficiency for antagonists but no change in agonist binding .
+We previously reported the purification of human PTF , a complex of four subunits , and the molecular cloning and characterization of PTF gamma and delta subunits .
+Immunodepletion studies show that PTF beta is required for transcription of both classes of snRNA genes in vitro .
+Engagement of surface immunoglobulin on mature B cells leads to rescue from apoptosis and to proliferation .
+The positive region can be divided into an upstream and a downstream regulatory region .
+These stimuli result in phosphorylation of CREB at serine 133 .
+The phosphorylation of CREB that results in activation is mediated by protein kinase C rather than by protein kinase A .
+These two anthracyclines , although closely related in their structures , appeared to act as differentiation inducers by distinct mechanisms .
+Indeed , erythroid gene expression was demonstrated to be regulated transcriptionally by ACLA and mainly posttranscriptionally by DOX .
+We previously characterized Drosophila and human TAF subunits that make up the core TFIID complex found in all cells .
+Here , we report that differentiated B cells contain a novel substoichiometric TAF of 105 k Da not found associated with TFIID isolated from other cell types .
+All cells tested express TAFII105 mRNA , but only B cells contain significant levels of protein associated with TFIID .
+Transient overexpression of hTAFII105 selectively squelches the transcription of some genes in B cells .
+This cross communication involves soluble mediators , including various growth factors , cytokines , and neuropeptides .
+The activating stimulus invokes signaling mechanisms distinct from known kinase or protease pathways .
+Regulation of cytokine and cytokine receptor expression by glucocorticoids .
+The primary RNA transcript of the gene is subject to alternative splicing to yield different variants which can either activate or repress gene expression .
+For this expression pattern the first 280 bp upstream of the major transcriptional start site seems to be sufficient .
+Mutation of either site reduced the expression in transient transfection experiments .
+Lymphocytes from CML patients lack a 47 k Da factor having affinity for a genomic sterol regulatory sequence .
+Based upon these results we propose that this factor may have a role in pathophysiology of chronic myeloid leukaemia .
+To determine whether CIF blocks at the level of IL2 transcription , we introduced reporter plasmids into the human T leukemia cell line Jurkat by transient transfection .
+CIF inhibited induction of either construct as did cyclosporine , which is known to block activation of the NFAT element .
+Stably transfected Jurkat cells behaved similarly to the transiently transfected ones with respect to inhibition by CIF and cyclosporine .
+Octamer independent activation of transcription from the kappa immunoglobulin germline promoter .
+We also find significant differences in activation of germline and V region promoters by kappa enhancers .
+Our results suggest that the germline promoters and V region promoters differ in their dependence on octamer for activation and respond differently to enhancer activation .
+We report here the cloning of p27 Kip1 gene from murine genomic DNA and the functional analysis of the promoter of the p27Kip1 gene .
+Primer extension and nuclease S1 protection analysis revealed two major transcription initiation sites .
+The reversal from stimulation to inhibition occurred after 3 to 5 days of adherence to plastic .
+We identified a promoter segment that activates transcription most efficiently in keratinocytes .
+We conclude that engagement of CD15 on monocytes results in monocyte activation .
+The sequence shows high homology with the murine FOSB gene , which encodes a component of the AP1 transcriptional regulator .
+The kinetics of expression suggest that the high initial levels are caused by the isolation procedure , and do not reflect constitutive expression .
+Levels of FOSB mRNA reach a maximum 40 min after the addition of lectin and decline to control levels over the next 6 hr .
+In freshly isolated cells , both FOS and FOSB mRNAs increase dramatically in response to the protein synthesis inhibitor cycloheximide .
+In preincubated cells , the cycloheximide response is decreased , especially in the case of FOSB .
+These differences in expression of FOS and FOSB suggest different roles and regulation .
+Several studies have pointed to a link between immune and endocrine systems , including a regulatory function of GH on monocyte activation .
+Interaction of transcription factors RFX1 and MIBP1 with the gamma motif of the negative regulatory element of the hepatitis B virus core promoter .
+Here we show that the transcription factor RFX1 can bind to NRE gamma and transactivate the core promoter through this site .
+In addition , RFX1 can bind simultaneously , most likely as a heterodimer , with the transcription factor MIBP1 to NRE gamma .
+The ability of RFX1 to transactivate the core promoter raises the possibility that RFX1 may play a dual role in regulating HBV gene expression .
+We have recently cloned the carboxylesterase upstream sequence and showed its basal promoter activity in CHO cells .
+These results suggest that blasts in M7 and TMD may correspond to progenitors of both erythroid and megakaryocytic lineages .
+In the majority of cell lines studied , the regulation of ferritin expression was exerted mostly at the translational level .
+The transduction pathways that lead to I kappaB inactivation remain poorly understood .
+In addition , this analysis suggests a common step in the signaling pathways that trigger I kappaB alpha , I kappaB beta , and I kappaB epsilon degradation .
+Regulation of NFAT could be therefore a critical element in the polarization to eTh1 or eTh2 .
+Identification of nucleotide sequences that regulate transcription of the MCF13 murine leukemia virus long terminal repeat in activated T cells .
+In this paper , we studied the molecular consequences of PF treatment during lymphocyte activation .
+The greater selectivity of PF , compared with FK506 , at both the molecular and cellular levels may prove advantageous in manipulating T cell responses in vivo .
+This is the first description of a negative regulatory region responsive to glucocorticoids in a cytokine gene .
+The structural organization of the 393 amino acid long human TRAMP is most homologous to TNF receptor 1 .
+They are particularly abundant in lymphoid tissues and are thought to be critical for the transcription of genes involved in immune and inflammatory responses .
+However , the intensity of p65 labeling was much higher in several thymocytes from the medulla .
+No degradation of p105 and p100 inhibitors was observed under these conditions .
+This ROS pathway was also characterized by the use of other inhibitors .
+Cytokine stimulation leads to the phosphorylation of specific tyrosine residues within the intracellular domain of the corresponding cytokine receptor .
+Specific docking sites within individual cytokine receptors have been identified for almost all Stat proteins .
+The direct coupling between cytokine receptor and transcription factor helps to explain how different cytokines elicit distinct patterns of gene expression .
+Regulation of the tissue factor gene in human monocytic cells .
+Deletional analysis indicated that five Sp1 sites mediated basal expression in uninduced cells .
+These interactions represent a potential target for the development of novel immunosuppressive and antiviral therapies .
+Oxidants such as hydrogen peroxide are known to activate certain transcription factors such as nuclear transcription factor kappa beta .
+Constitutive DNA binding activity consisting of p50 homodimers was detected in nuclear extracts from both cell types .
+Immunoblot analysis showed that the p50 subunit was constitutively expressed in monocytes and MDMs .
+While ICN appeared primarily in the nucleus , DeltaE localized to cytoplasmic and nuclear membranes , suggesting that intranuclear localization is not essential for oncogenesis or transcriptional activation .
+Recent studies have revealed that interactions between transcription factors play an important role in regulation of gene expression in eukaryotic cells .
+This employs an Escherichia coli tester strain carrying a modified lac operon as a reporter gene , with the lac operator sequence replaced by an octamer sequence .
+Translocations involving the human CBFA2 locus have been associated with leukemia .
+This gene , originally named AML1 , is a human homologue of the Drosophila gene runt that controls early events in fly embryogenesis .
+In the adult bone marrow , we found expression of runt polypeptides in differentiating myeloid cells and in B lymphocytes .
+Biochemical analysis by Western blotting of fetal and adult hematopoietic populations shows several runt isoforms .
+At least one of them appears to be myeloid specific .
+In contrast , LAI replicates well in memory CD4 T cells stimulated in the same way .
+Unlike this physiologically relevant stimulation , PHA stimulates productive LAI replication in both naive and memory T cells .
+NFATx1 , which is preferentially expressed in the thymus and peripheral blood leukocytes , is one of four members of the NFAT family of transcription factors .
+We have performed domain analysis of NFATx1 by examining the effects of deletion mutations .
+We have mapped the inhibitory activity to less than 60 residues , containing motifs that are conserved in all NFAT proteins .
+Finally , we demonstrate that deletion in NFATx1 of the mapped 60 residues leads to its nuclear translocation independent of calcium signaling .
+Nitric oxide subserves diverse physiologic roles in the nervous system .
+We show that n NOS is the predominant isoform constitutively expressed in glia .
+Germline transcripts initiate from promoters upstream of the immunoglobulin switch region , and are necessary to target the appropriate switch region for recombination and switching .
+Different cytokines activate transcription at the appropriate germline promoter .
+We investigated whether BSAP plays a role in the transcriptional regulation of the epsilon germline promoter in human B cells .
+The activation of NFAT was also impaired by expression of the Itk mutant .
+Jak3 is associated with CD40 and is critical for CD40 induction of gene expression in B cells .
+CD40 is a receptor that is critical for the survival , growth , differentiation , and isotype switching of B lymphocytes .
+We show that engagement of CD40 induces tyrosine phosphorylation and activation of Jak3 as well as of STAT3 .
+The results indicate that DNA methylation , chromatin structure , and transactivation at an Sp1 site contribute to the highly restricted expression of this myelomonocytic lineage specific gene .
+Examination of CIITA mRNA in IK stably transfected clones revealed a marked reduction of CIITA mRNA transcription .
+To validate the method , we made use of earlier receptor binding studies indicating that normal human monocytes and activated , but not resting , lymphocytes expressed the VDR .
+We conclude that VDR polymorphism does not affect the abundance of the VDR mRNA .
+Stimulation of mature peripheral T cells by TCR engagement results in activation of signals that drive induction of cytokine gene expression and clonal expansion .
+However , under some conditions , engagement of the TCR leads instead to apoptosis .
+The experiments reported in this study were designed to address the signaling events triggered by TCR engagement that are important for regulating CD95 ligand gene expression .
+To approach this , we generated a luciferase reporter construct containing elements of the CD95 ligand promoter .
+Recently , CD40 also has been shown to be expressed by mesenchymal cells , including human fibroblasts .
+Little is known about the role of CD40 in fibroblasts .
+The current study investigates the hypothesis that CD40 expressed on lung fibroblasts is an activation structure and mechanism for interaction with hemopoietic cells .
+Communication between resident tissue fibroblasts and T cells is necessary for normal wound healing , and can be pathologic , resulting in tissue fibrosis .
+Thus , Tap is likely to be an important cellular mediator of Tip function in T cell transformation by herpesvirus saimiri .
+We have investigated the mechanism of transactivation mediated by the CIITA activation domain by studying its role in the process of transcription initiation and elongation .
+Finally , like VP16 , CIITA was able to stimulate elongation of transcription .
+One gene encodes a protein , RFX5 , that is a member of the RFX family of DNA binding proteins .
+Thus , RFX5 can activate transcription only in cooperation with CIITA .
+RFX5 and CIITA associate to form a complex capable of activating transcription from class II major histocompatibility complex promoters .
+In this complex , promoter specificity is determined by the DNA binding domain of RFX5 and the general transcription apparatus is recruited by the acidic activation domain of CIITA .
+It can bind to DNA target sequences within a variety of cytokine genes .
+Glucocorticoid therapy resolves clinical symptoms within hours to days , but therapy has to be continued over several years to prevent disease relapses .
+It is not known whether and how glucocorticoids affect the function of the inflammatory infiltrate or why the disease persists subclinically despite chronic treatment .
+These findings correlated with activation of the IkappaBalpha gene and blockade of the nuclear translocation of NFkappaB in the xenotransplanted tissue .
+Cells pretreated with dimaprit showed a decrease in the cAMP response to subsequent addition of H2 agonists , whereas the cAMP response to prostaglandin E2 remained unaltered .
+This homologous mechanism of H2 receptor desensitization was time dependent .
+We have used a somatic cell hybridization approach to genetically analyse regulation of the activity of the IgH 3 ' enhancer .
+When mouse MPC11 plasmacytoma cells , in which the IgH 3 ' enhancer is active , are fused with fibroblasts , Ig expression is extinguished at the level of transcription .
+Here we show that in a MPC11 plasmacytoma x fibroblast environment , the IgH 3 ' enhancer is transcriptionally inactive .
+Activation of helper T cells results in coordinate expression of a number of cytokines involved in differentiation , proliferation and activation of the haematopoietic system .
+ETS1 is a transcription factor of the ETS family that is expressed in T cells .
+Transactivation by ETS1 , NFkappaB and AP1 is synergistic , and mutation of the individual binding sites reveals that the transcriptional activities of these factors are interdependent .
+Our results suggest that constitutive ETS1 , and inducible NFkappaB and AP1 , cooperate as part of a higher order transcriptional complex in activated T cells .
+Relief of cyclin A gene transcriptional inhibition during activation of human primary T lymphocytes via CD2 and CD28 adhesion molecules .
+Cyclin A transcription is cell cycle regulated and induced by cell proliferative signals .
+The third site was occupied in quiescent cells or in cells stimulated by anti CD2 or anti CD28 alone .
+Comparison of the transactivation domains of Stat5 and Stat6 in lymphoid cells and mammary epithelial cells .
+They are rapidly activated by various cytokines , hormones , and growth factors .
+Upon ligand binding and cytokine receptor dimerization , Stat proteins are phosphorylated on tyrosine residues by Jak kinases .
+Stat5 and Stat6 are transcription factors active in mammary epithelial cells and immune cells .
+Both cytokines are able to stimulate cell proliferation , differentiation , and survival .
+We investigated the transactivation potential of Stat6 and found that it is not restricted to lymphocytes .
+The induction of this promoter was confirmed in COS7 cells .
+The potencies of the transactivation domains of Stat5 , Stat6 , and viral protein VP16 were compared .
+Ehrlichia chaffeensis is an obligatory intracellular bacterium that infects monocytes and macrophages and is the etiologic agent of human ehrlichiosis in the United States .
+In monocytes , the virus was bound to the surface without being internalized .
+On the other hand , Ad2 was internalized by macrophages .
+No virus replication and no transcription of the Ad2 early genes was observed in either of the cells .
+The production of both cytokines , measured by ELISA tests , was enhanced in monocytes .
+The data indicate that cellular genes might be activated by Ad2 virus infection in nonpermissive cells where no viral gene products could be detected .
+The LPS response was also more rapid , as it was already evident by 40 min and remained sustained for up to 3 h .
+By promoter deletion and mutation analyses , we established this region as a positive regulatory element .
+Mutation of Ser184 also diminished transactivation function in B cells , suggesting that the activating phosphorylation that is inducible in T cells is constitutively present in B cells .
+In resting Raji cells , little to no binding to the X2 box was observed .
+The control of cell survival and cell death is of central importance in tissues with high cell turnover such as the lymphoid system .
+Transcription factor binding sites downstream of the human immunodeficiency virus type 1 transcription start site are important for virus infectivity .
+In contrast , proviruses carrying mutations in the Sp1 sites were totally defective in terms of replication .
+These markers will be useful to study the role of genetic variation in these genes in the pathogenesis of type 2 diabetes .
+Differential expression was confirmed subsequently by Northern blot analysis .
+EBF and E47 collaborate to induce expression of the endogenous immunoglobulin surrogate light chain genes .
+Taken together , these data suggest that EBF and E47 synergize to activate expression of a subset of genes that define an early stage of the B cell lineage .
+With the use of specific antibodies we have determined the composition of each complex using electrophoretic mobility shift assays .
+The correlation is specific as the level of at least three other transcription factors did not change .
+Here we describe the functional characterization of this promoter and identification of the factors in B and T cells that regulate its activity .
+All these motifs are essential and collectively control transcriptional activity .
+DNA binding studies and Ab supershift assays revealed that different combinations of factors interact with these motifs in B cells vs T cells .
+These findings reveal the features controlling the pp52 promoter in B and T cells and provide the foundation for determining the regulation of this promoter in other leukocyte lineages .
+Despite this , there are still significant gaps in our understanding of this process and its consequences .
+We investigated the trophic effect resulting from activation of such a receptor by using the reporter gene strategy .
+Phagocytosis represents an important physiological trigger for the inducible expression of several genes in human neutrophils .
+The adherence of monocytes to activated endothelium is an early event in atherogenesis .
+Decreased adhesion molecule expression was associated with a reduction of monocytic cell adhesion .
+Leukocyte integrins are fundamentally important in modulating adhesion to extracellular matrix components and to other cells .
+Our results support the idea that human CD36 mediates signal transduction events in response to Ox LDL .
+The coordinated production of all blood cells from a common stem cell is a highly regulated process involving successive stages of commitment and differentiation .
+Here we discuss recent advances in transcriptional regulation during myelopoiesis .
+For comparison , we recruited a control group consisting of 32 healthy males and females with similar age distribution and without a history of exposure to MTBE or benzene .
+Activation of a novel gene in 3q21 and identification of intergenic fusion transcripts with ecotropic viral insertion site I in leukemia .
+Acute ethanol exposure has the capacity to modulate immune functions , particularly , to down regulate monocyte production of inflammatory cytokines .
+However , the intracellular mechanisms for these effects of ethanol are yet to be understood .
+EMSA showed that both constitutive and inducible complexes bound to CLE0 , P , P2 and P4 , whereas only a constitutive complex bound to P3 .
+The ability of BHRF1 to inhibit apoptosis is dependent on stimulus and cell type .
+A member of the tumor necrosis factor receptor superfamily was isolated by virtue of its affinity for CAML .
+Furthermore , it is highly expressed in Burkitt 's lymphoma cells and may participate in the pathogenesis of this disease .
+In particular the best responder cell line was the Burkitt 's cell line Namalwa .
+Ig heavy chain class switching is directed by cytokines inducing transcription from unrearranged CH genes .
+Subsequently , such primed cells can undergo switch recombination to express the selected new isotype .
+Since GH stimulates the development and function of granulocytes , we investigated the expression of GH in granulocyte subsets .
+Monochloramine derivatives are long lived physiological oxidants produced by neutrophils during the respiratory burst .
+We have investigated the effects of Vpr on host cell activation and confirm that it influences cellular proliferation .
+The effects of Vpr could be reversed by RU486 .
+PAO was found to be effective even when added 3 h after TNF , suggesting a rapid mode of action of this inhibitor .
+Consistent with these results , the attachment of monocytes to MVEC was also blocked by the PTPase inhibitors .
+Because of their role in cell adhesion , PTPase may provide a novel target of drug development for treatment of inflammation , atherogenesis , and tumor metastasis .
+The data further show that these overall topographical distributions are independent of gene transcriptional activity and are conserved in different cell types .
+Furthermore , PDTC differentially targeted both NFATp and NFATc family members , inhibiting the transactivation functions of NFATp and mRNA induction of NFATc .
+Dexamethasone was added 1 hour before TNFalpha stimulation in the dexamethasone group .
+Nonadherent neutrophils were removed by sealing and inverting the culture well .
+Nuclear accumulation of NFAT4 opposed by the JNK signal transduction pathway .
+NFAT activation is mediated in part by induced nuclear import .
+Mutational removal of the JNK phosphorylation sites caused constitutive nuclear localization of NFAT4 .
+These findings show that the nuclear accumulation of NFAT4 promoted by calcineurin is opposed by the JNK signal transduction pathway .
+Mycobacterium tuberculosis and its components are strong signals to activate monocytes to production of cytokines .
+Molecular cloning and functional characterization of murine cDNA encoding transcription factor NFATc .
+By Northern and in situ hybridization , mNFATc transcript was detected from the early stage of development .
+However , nuclear targets for PI3 K are not known .
+The expression of an active PKB is sufficient to induce E2F activity .
+Inhibition of PI3K inhibits phosphorylation of Rb , induction of cyclin D3 , and degradation of p27kip1 .
+The inhibition by PDTC was reversible unless glutathione synthesis was blocked by buthionine sulfoximine .
+Moreover , we observed constitutive association of STAT3 with each STAT5 isomer .
+Cyclosporin A inhibits monocyte tissue factor activation in cardiac transplant recipients .
+Freshly isolated cells contain high levels of G0S2 mRNA which rapidly decline .
+This " spontaneous stimulation " is also noted with some other G0S genes and has been attributed to some aspect of the isolation procedure .
+In contrast , the binding activities of NF1 and Sp1 were not affected by ER .
+We demonstrate that mRNAs for all three of these regulatory factors are expressed in fetal blood cells by the 27th week of gestation and in term cord bloods .
+Thus , qualitative differences in the capacity to regulate these factors could not be shown in fetal blood cells .
+The effect of NAC was also examined on deletional switch recombination underlying the isotype switch to IgE .
+We therefore compared the turnover of I kappa B alpha and I kappa B beta in mature B cells and HeLa cells .
+Both proteins display a high turnover in B cells although I kappa B beta is considerably more stable than I kappa B alpha .
+I kappa B alpha is efficiently resynthesized whereas I kappa B beta levels stay low for a prolonged time .
+These observations suggest that resynthesis of I kappa B alpha and removal of the stimulus are obligatory steps for the inactivation of nuclear NF kappa B .
+Potent inhibition of HIV type 1 replication by an antiinflammatory alkaloid , cepharanthine , in chronically infected monocytic cells .
+At least 1,000 cells per sample were run on a BD FACSCalibur flow cytometer .
+Luciferase activities of A3G promoter constructs in different cell lines .
+Particularly interesting are those Treg cells that are generated in the periphery and thus are potential targets for therapeutic interventions .
+Proliferation of the effector cells was analyzed by CFSE dilution .
+Apoptosis of the cells was investigated by annexin V staining and flow cytometry .
+The RUNX3 vector pCMV human RUNX3 , which was a gift from K .
+The colorimetric reaction was stopped by adding 2 M H2SO4 .
+CD4 and intracellular FOXP3 analysis by flow cytometry after 72 h .
+Tissue sections were stained for FOXP3 , RUNX1 , RUNX3 , and DAPI or isotype controls .
+Data shown are representative from one of the three tissue samples with similar results .
+Data shown are one representative of three independent experiments with similar results .
+CD40 expression was confirmed in 7 human MM cell lines established from immunogenic primary tumors or metastases , whereas 11 cell lines established from advanced stages were CD40 negative .
+The transactivation of multiple cis elements , especially S and X2 , of the DR alpha proximal promoter in group II CID cells is CIITA dependent .
+Preassociation of STAT1 with STAT2 and STAT3 in separate signalling complexes prior to cytokine stimulation .
+STAT1 and STAT2 or STAT1 and STAT3 translated in reticulocyte lysate spontaneously form heterocomplexes when the translation lysates are mixed at 0 degrees C .
+The effect of 18 C7 on the binding was similar with both hormones .
+Abnormal T lymphocyte development induced by targeted overexpression of IkappaB alpha .
+Another example of a repressor that interferes with an activator on the epsilony promoter is DRED .
+Nuclear protein extract and in vitro translation of Sox6 .
+Only stimulation of PBMC observed in donors showing no spontaneous cytokine release was included in the statistics .
+Abnormalities of cyclic adenosine monophosphate signaling in platelets from untreated patients with bipolar disorder .
+Jak1 , Jak3 , Stat1 , Stat3 , and Stat5 expression is suppressed approximately to , or below the level of unstimulated cells .
+Glucocorticoid receptors in anorexia nervosa and Cushing 's disease .
+Immune functions , clinical parameters and hormone receptor status in breast cancer patients .
+Altered memory T cell differentiation in patients with early rheumatoid arthritis .
+Said anthropometric , metabolic and hormonal parameters were compared with the index of lymphocytic infiltration of tumor selected as a prognostic factor .
+This rise is due to increased mRNA stability , which increased by almost twofold , and to an overall increase in transcription , which rises by more than sixfold .
+Circadian rhythm of glucocorticoid receptors in human peripheral leukocytes and their reactivity to glucocorticoids .
+RU 486 tested at an equal concentration as progesterone significantly inhibited the production of the blocking factor , while RU 43044 was without effect .
+The murine BCL6 gene is induced in activated lymphocytes as an immediate early gene .
+The inhibitory activity was heat labile and trypsin sensitive .
+Inhibition of the differentiation of human myeloid cell lines by redox changes induced through glutathione depletion .
+This growth modulator was semipurified and had an estimated molecular weight 13,000 to 24,000 Da .
+This conclusion is discussed in relation to the mechanism of corticoid resistance in mouse and human lymphoma cells in culture .
+The results presented identify the first genetic lesion associated with DLCL , the most clinically relevant form of NHL .
+CCAAG which is present as part of larger palindromic sequences in each gene .
+Serum osteocalcin decreased significantly during treatment with both BUD and FP .
+Deactivation of mononuclear phagocytes is critical to limit the inflammatory response but can be detrimental in the face of progressive infection .
+Strikingly , the immunosuppressive effects of TPCK are blocked when T cells are pretreated for 15 min with 5 mM NAC .
